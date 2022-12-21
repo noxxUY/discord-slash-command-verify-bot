@@ -1,6 +1,6 @@
-##### Hey there, here you have the steps!
+##### Hey there, here you have the steps! 👋
 
-- Install Node.js ( https://nodejs.org/en/ )
+- Install Node.js ( https://nodejs.org/en/ ) 🌱
 - Open cmd on the folder
 - Execute this commands
 
